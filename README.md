@@ -26,4 +26,4 @@ The following datasets are provided :
 - accuracy score is : 0.821
 - average_precision_score score is : 0.9576
 
-![Screenshot](Screen Shot 2021-12-23 at 12.09.50 PM.png)
+!['Screenshot'](git.png)
