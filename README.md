@@ -27,3 +27,8 @@ The following datasets are provided :
 - average_precision_score score is : 0.9576
 
 !['Screenshot'](git.png)
+
+## Submission -
+Test Data - merged with app data 
+Test Data - Scaled and run with the best performing model 
+- predicted.csv file
