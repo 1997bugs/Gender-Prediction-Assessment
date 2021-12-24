@@ -26,11 +26,11 @@ The following datasets are provided :
 
 ## Best Model Performance Metrics -
 [ Experiment Results ]
-Accuracy:   0.8868033851880465
-Precision:  0.9099151743638078
-Recall:     0.9665992510863253
-ROC Auc:    0.9042868864519347
-PR Auc:     0.9850967709983607
+- Accuracy:   0.8868033851880465 
+- Precision:  0.9099151743638078 
+- Recall:     0.9665992510863253 
+- ROC Auc:    0.9042868864519347 
+- PR Auc:     0.9850967709983607 
 
 !['Screenshot'](sample_output.png)
 
