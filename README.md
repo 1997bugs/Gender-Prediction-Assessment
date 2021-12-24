@@ -34,3 +34,7 @@ The following datasets are provided :
 
 !['Screenshot'](sample_output.png)
 
+## File Directory -
+- Report File - Mobilewalla__ShriyaMandarapu_DataScience_Assessment(1).pdf
+- Code - 2 ipynb & respective html files
+- Output File - lightgbm_model_predicted_probs.csv
